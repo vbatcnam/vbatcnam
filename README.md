@@ -41,6 +41,7 @@
 ## 📣 Rejoignez-nous sur les réseaux !  
 💬 **Envie d’échanger sur le développement de FuncSug**
 🐘[Mastodon-pialle](https://piaille.fr/@cli345)
+🗣️ [Discord](https://discord.gg/ARk7tFjAdK)
 
 💬 **Envie d’échanger sur FuncSug et les jeux éducatifs et la narration interactive ?** 
 🐘 [Mastodon - Ludosphère](https://ludosphere.fr/@Ludovick)
