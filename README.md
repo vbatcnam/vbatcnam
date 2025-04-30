@@ -24,7 +24,7 @@
 
 ### 📜 Manuel FuncSug (en évolution)  
 🔹 **Découvrez le guide officiel de FuncSug**, avec des mises à jour régulières et des explications détaillées.  
-🔹 Suivez son développement et apprenez à utiliser les fonctionnalités du langage.   
+🔹 Suivez son développement et apprenez à utiliser les fonctionnalités du langage.
 ➡️ [Manuel FuncSug](https://funcsug.prefasite.fr/fr/manuel/co/guide.html)  
 
 💬  **Des suggestions ou des questions ?** Vous pouvez contribuer via [GitHub Issues](https://github.com/vbatcnam/FuncSug/issues) et échanger avec nous ! 🚀 
