@@ -1,6 +1,8 @@
 <!--
 **vbatcnam/vbatcnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+![banniere-page001](https://github.com/user-attachments/assets/52594792-50ef-4b72-9385-c8ef0a115ca8)
+
 ## ✨ Salut, explorateurice ! 👋
 
 🌱 **Je teste [FuncSug](https://github.com/cl4cnam/funcSug)**, un langage expérimental conçu pour **simplifier la programmation de la gestion des événements**. 
