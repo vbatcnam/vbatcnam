@@ -36,7 +36,7 @@
 🛠️ **Votre mission** (si vous l’acceptez) :
 > 👉 Tester FuncSug et explorer ses possibilités.  
 > 👉 Partager vos idées et vos retours pour l’améliorer.  
-> 👉 Contribuer à son développement avec vos compétences en création interactive.  
+> 👉 Contribuer à son développement avec vos compétences, vos idées.  
 
 ## 📣 Rejoignez-nous sur les réseaux !  
 💬 **Envie d’échanger sur le développement de FuncSug**
