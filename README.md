@@ -9,7 +9,7 @@
 
 😄 **FuncSug est né d’une rencontre**, lors de mon stage au CNAM et d’une réflexion autour de **SugarCubesJS**. 
 
-✍️ **Je raconte son histoire dans mon [blogue](https://ticoloupa.blogspot.com/)**
+✍️ **Je raconte son histoire** dans mon [blogue](https://ticoloupa.blogspot.com/)
 
 ## 🚀  Découvrez FuncSug 
 
