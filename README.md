@@ -19,7 +19,7 @@
 
 ### 📖 Tutoriel FuncSug  
 🔹 **Apprenez à utiliser FuncSug étape par étape !**  
-🔹💡 J'attends vos retours pour l'améliorer 🚀 
+💡 J'attends vos retours pour l'améliorer. 🚀 
 ➡️ [Tutoriel FuncSug](https://funcsug.prefasite.fr/fr/tuto/#supportWeb)  
 
 ### 📜 Manuel FuncSug (en évolution)  
